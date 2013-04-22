@@ -4,3 +4,8 @@
 *.jar
 *.war
 *.ear
+
+# Package Files #
+.iws
+workspace.xml
+tasks.xml
