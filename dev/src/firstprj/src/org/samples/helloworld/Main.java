@@ -1,4 +1,4 @@
-package org.samples.hellowrld;
+package org.samples.helloworld;
 
 public class Main {
 
