@@ -9,3 +9,5 @@
 .iws
 workspace.xml
 tasks.xml
+
+out/
